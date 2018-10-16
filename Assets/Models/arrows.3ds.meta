@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 98bbecc77fe6e024aae2a8b54e76e021
+timeCreated: 1432130869
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: arrow
+    100002: arrow1
+    100004: arrow2
+    100006: arrow3
+    100008: arrow_0
+    100010: arrow_1
+    100012: arrow_2
+    100014: arrow_eNur
+    100016: //RootNode
+    100018: arrows
+    100020: Camera
+    100022: Camera.target
+    100024: Deckf
+    100026: Deckf1
+    100028: Deckf2
+    100030: Deckf3
+    100032: Deckf4
+    100034: Deckfl_che
+    100036: Kugel
+    100038: Licht
+    100040: Light
+    100042: Light_1
+    100044: Rundu
+    100046: Rundu1
+    100048: Rundu2
+    100050: Rundu3
+    100052: Rundung_1
+    100054: Rundung_2
+    400000: arrow
+    400002: arrow1
+    400004: arrow2
+    400006: arrow3
+    400008: arrow_0
+    400010: arrow_1
+    400012: arrow_2
+    400014: arrow_eNur
+    400016: //RootNode
+    400018: arrows
+    400020: Camera
+    400022: Camera.target
+    400024: Deckf
+    400026: Deckf1
+    400028: Deckf2
+    400030: Deckf3
+    400032: Deckf4
+    400034: Deckfl_che
+    400036: Kugel
+    400038: Licht
+    400040: Light
+    400042: Light_1
+    400044: Rundu
+    400046: Rundu1
+    400048: Rundu2
+    400050: Rundu3
+    400052: Rundung_1
+    400054: Rundung_2
+    2300000: arrow
+    2300002: arrow1
+    2300004: arrow2
+    2300006: arrow3
+    2300008: arrow_0
+    2300010: arrow_1
+    2300012: arrow_2
+    2300014: arrow_eNur
+    2300016: arrows
+    2300018: Deckf
+    2300020: Deckf1
+    2300022: Deckf2
+    2300024: Deckf3
+    2300026: Deckf4
+    2300028: Deckfl_che
+    2300030: Kugel
+    2300032: Rundu
+    2300034: Rundu1
+    2300036: Rundu2
+    2300038: Rundu3
+    2300040: Rundung_1
+    2300042: Rundung_2
+    3300000: arrow
+    3300002: arrow1
+    3300004: arrow2
+    3300006: arrow3
+    3300008: arrow_0
+    3300010: arrow_1
+    3300012: arrow_2
+    3300014: arrow_eNur
+    3300016: arrows
+    3300018: Deckf
+    3300020: Deckf1
+    3300022: Deckf2
+    3300024: Deckf3
+    3300026: Deckf4
+    3300028: Deckfl_che
+    3300030: Kugel
+    3300032: Rundu
+    3300034: Rundu1
+    3300036: Rundu2
+    3300038: Rundu3
+    3300040: Rundung_1
+    3300042: Rundung_2
+    4300000: Kugel
+    4300002: arrows
+    4300004: arrow_1
+    4300006: arrow2
+    4300008: arrow1
+    4300010: Rundu1
+    4300012: Deckf
+    4300014: Rundu3
+    4300016: Deckf1
+    4300018: arrow_2
+    4300020: arrow_0
+    4300022: arrow
+    4300024: Rundu
+    4300026: Deckf2
+    4300028: Rundu2
+    4300030: Deckf4
+    4300032: arrow3
+    4300034: arrow_eNur
+    4300036: Rundung_1
+    4300038: Deckf3
+    4300040: Rundung_2
+    4300042: Deckfl_che
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
