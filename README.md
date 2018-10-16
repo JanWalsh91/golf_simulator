@@ -10,12 +10,12 @@
 - Switch to aerial camera with E
 - Switch between clubs with TAB
 
-<img src="https://github.com/JanWalsh91/golf_simulator/blob/master/media/GIF%201.gif" alt="drawing" width="400"/>
+<img src="https://github.com/JanWalsh91/golf_simulator/blob/master/media/GIF%201.gif" alt="drawing"/>
 
 Don't land in the bunker!
 
-<img src="https://github.com/JanWalsh91/golf_simulator/blob/master/media/GIF%202.gif" alt="drawing" width="400"/>
+<img src="https://github.com/JanWalsh91/golf_simulator/blob/master/media/GIF%202.gif" alt="drawing"/>
 
 Explore beautiful landscapes!
 
-<img src="https://github.com/JanWalsh91/golf_simulator/blob/master/media/GIF%203.gif" alt="drawing" width="400"/>
+<img src="https://github.com/JanWalsh91/golf_simulator/blob/master/media/GIF%203.gif" alt="drawing"/>
