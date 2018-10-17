@@ -19,3 +19,7 @@ Don't land in the bunker!
 Explore beautiful landscapes!
 
 <img src="https://github.com/JanWalsh91/golf_simulator/blob/master/media/GIF%203.gif" alt="drawing"/>
+
+- [Tower Defense](https://github.com/JanWalsh91/tower_defense)
+- [Infiltration](https://github.com/JanWalsh91/inflitration)
+- [Blocks Puzzle](https://github.com/JanWalsh91/blocks_puzzle)
